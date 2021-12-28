@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/labyrinth/static/css/main.d429d399.css",
-    "main.js": "/labyrinth/static/js/main.d3e53bf2.js",
+    "main.js": "/labyrinth/static/js/main.e77c9723.js",
     "index.html": "/labyrinth/index.html",
     "main.d429d399.css.map": "/labyrinth/static/css/main.d429d399.css.map",
-    "main.d3e53bf2.js.map": "/labyrinth/static/js/main.d3e53bf2.js.map"
+    "main.e77c9723.js.map": "/labyrinth/static/js/main.e77c9723.js.map"
   },
   "entrypoints": [
     "static/css/main.d429d399.css",
-    "static/js/main.d3e53bf2.js"
+    "static/js/main.e77c9723.js"
   ]
 }
