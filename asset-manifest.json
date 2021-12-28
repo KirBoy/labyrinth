@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/labyrinth/static/css/main.ebb1ebc2.css",
+    "main.js": "/labyrinth/static/js/main.e329347a.js",
+    "index.html": "/labyrinth/index.html",
+    "main.ebb1ebc2.css.map": "/labyrinth/static/css/main.ebb1ebc2.css.map",
+    "main.e329347a.js.map": "/labyrinth/static/js/main.e329347a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebb1ebc2.css",
+    "static/js/main.e329347a.js"
+  ]
+}
